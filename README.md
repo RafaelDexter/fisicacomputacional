@@ -4,6 +4,10 @@ Bem vindos ...
 
 # Linux
 
+## .bashrc
+
 ## apt
 
 ## GNUplot
+
+## Intel
